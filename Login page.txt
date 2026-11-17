@@ -1,0 +1,7 @@
+Login page adalah halaman masuk pada situs web atau aplikasi yang meminta pengguna memasukkan kredensial—seperti username, email, nomor telepon, atau password—untuk memverifikasi identitas sebelum mengakses akun atau fitur tertentu.
+
+Fungsi Utama
+
+• Autentikasi pengguna: Memastikan pengguna yang masuk adalah pemilik akun yang sah.
+• Keamanan data: Melindungi informasi pribadi dan membatasi akses hanya ke area atau fitur yang diizinkan.
+• Personalisasi akses: Mengarahkan pengguna ke dasbor, peran (role), atau data sesuai akun masing-masing

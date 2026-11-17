@@ -1,0 +1,7 @@
+Sign in page adalah halaman masuk yang berfungsi sebagai pintu gerbang bagi pengguna terdaftar untuk mengakses akun, fitur, dan data pribadi di sebuah situs web atau aplikasi. Secara fungsi, istilah ini sama dengan login page.
+
+Fungsi Utama
+
+• Autentikasi pengguna: Memverifikasi identitas pengguna melalui kredensial yang sudah terdaftar.
+• Keamanan data: Mencegah akses tidak sah ke informasi pribadi atau fitur khusus anggota.
+• Personalisasi: Mengarahkan pengguna ke dasbor, riwayat aktivitas, atau pengaturan akun masing-masing

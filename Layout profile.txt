@@ -1,0 +1,9 @@
+Layout profile page adalah susunan tata letak elemen visual dan informasi pada halaman profil di aplikasi, situs web, atau company profile yang membantu pengguna melihat, mengelola, atau mengenal identitas suatu akun maupun organisasi. Tata letak ini mengatur urutan hierarki agar informasi utama mudah dipindai dan diakses dengan cepat.
+
+Komponen Utama User Profile Page (Aplikasi / Web)
+
+• Header / Identitas Utama: Foto profil (avatar), cover atau banner, nama lengkap/username, bio singkat, serta status atau lencana peran.
+• Tombol Aksi (CTA): Tombol Edit Profile, Follow/Connect, Message, atau bagikan profil.
+• Statistik / Metrik: Angka ringkas seperti jumlah pengikut, proyek, poin, atau aktivitas sesuai konteks produk.
+• Navigasi Tab / Kategori Konten: Pemisah konten seperti Posts, Activity, Portfolio, atau Saved agar halaman tidak menumpuk.
+• Pengaturan Akun & Preferensi: Akses ke data pribadi, keamanan/kata sandi, privasi, serta preferensi aplikasi (notifikasi, bahasa, tema).
